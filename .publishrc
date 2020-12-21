@@ -1,0 +1,8 @@
+{
+    "validations": {
+        "uncommittedChanges": false,
+        "untrackedFiles": false,
+        "gitTag": false,
+        "expectedBranch": false
+    }
+}
